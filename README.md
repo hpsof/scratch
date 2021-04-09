@@ -1,2 +1,2 @@
 # scratch
-- zum testen
+- zum testen hugo_cache auf windows fuer getJSON
